@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "955724929004",
+    "project_id": "mbgz-ids2",
+    "storage_bucket": "mbgz-ids2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955724929004:android:a44dd882caf00fc7f7d2c9",
+        "android_client_info": {
+          "package_name": "com.uttec.mbgz.gastosb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5nTqYjwugqtv3nGXy4c8VajgGEF9VZkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
